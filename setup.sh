@@ -2,4 +2,4 @@
 
 gem install bundler
 bundle install
-bundle exec rake db:create db:migrate db:test:prepare
+bundle exec rake db:create db:migrate
